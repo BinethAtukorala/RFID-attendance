@@ -1,2 +1,2 @@
-# RFID-attendance
-RFID system for Attendance recording with Raspberry Pi
+# StewardAttendance
+RFID system for Steward Attendance recording with Raspberry Pi
